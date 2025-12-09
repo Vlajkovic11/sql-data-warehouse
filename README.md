@@ -1,5 +1,5 @@
 # sql-data-warehouse
-##This project involves:
+## This project involves:
 Data Architecture: Designing a modern Data Warehouse using Medallion Architecture (Bronze, Silver, and Gold layers).
 ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
 Data Modeling: Developing fact and dimension tables optimized for analytical queries.
